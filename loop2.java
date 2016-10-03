@@ -10,7 +10,7 @@ public class loop2 {
         int x;
         x=0;
 
-        do {
+        do {                    //do-while loop
             x++;                //count plus 1
             System.out.println(x);
         }   while ( x < 5 );    //control at the end of the loop
